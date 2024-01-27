@@ -1,0 +1,105 @@
+[
+    {
+        "id": "0",
+        "name": "All News"
+    },
+    {
+        "id": "1",
+        "name": "Breaking News"
+        
+    },
+    {
+        "id": "2",
+        "name": "Regular News"
+    },
+    {
+        "id": "3",
+        "name": "International News"
+    },
+    {
+        "id": "4",
+        "name": "Sports"
+    },
+    {
+        "id": "5",
+        "name": "Entertainment"
+    },
+    {
+        "id": "6",
+        "name": "Culture"
+    },
+    {
+        "id": "7",
+        "name": "Arts"
+    },
+
+
+    
+        {
+            "id": "8",
+            "name": "Scroll.in",
+            "title": "Start the week with a film: Mothers and daughters just want to have fun in ‘The Persian Version’",
+            "description": "Maryam Keshavarz’s English-language movie can be rented from BookMyShow Stream, YouTube, Apple TV+ and Google Play Movies.",
+            "content": "“I am nothing like my mother” – famous last words for the woman who discovers that sooner rather than later, she turns into a mirror image of the one she loves to hate.\nMaryam Keshavarz’s The Persian Version is among a crop of recent films that exami... [2031 chars]",
+            "url": "https://scroll.in/reel/1060651/start-the-week-with-a-film-mothers-and-daughters-just-want-to-have-fun-in-the-persian-version",
+            "image": "https://images.unsplash.com/photo-1508919801845-fc2ae1bc2a28?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1nfGVufDB8fDB8fHww",
+            "publishedAt": "2023-12-17T02:45:00Z",
+            "source": {
+              
+                "url": "https://scroll.in"
+            }
+        },
+        {   "id":"9",
+            "title": "Google's Gemini comes to more apps, Cruise slashes its workforce and Tesla issues a recall",
+            "description": "In this edition of TC's Week in Review (WiR) newsletter, we cover Google's Gemini model expanding, Cruise laying off employees and more.",
+            "content": "Hey, folks, welcome to Week in Review (WiR), TechCrunch’s regular newsletter covering the major happenings in the tech-o-sphere — or most of them, anyway. As the world’s largest AI conference, NeurIPS, got underway in sunny New Orleans, Google shared... [7635 chars]",
+            "url": "https://techcrunch.com/2023/12/16/googles-gemini-comes-to-more-apps-cruise-slashes-its-workforce-and-tesla-issues-a-recall/",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741",
+            "publishedAt": "2023-12-16T21:15:53Z",
+            "source": {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com"
+            }
+        },
+        { "id":"10",
+        "name": "TechCrunch",
+            "title": "Google's Gemini comes to more apps, Cruise slashes its workforce and Tesla issues a recall",
+            "description": "In this edition of TC's Week in Review (WiR) newsletter, we cover Google's Gemini model expanding, Cruise laying off employees and more.",
+            "content": "Hey, folks, welcome to Week in Review (WiR), TechCrunch’s regular newsletter covering the major happenings in the tech-o-sphere — or most of them, anyway. As the world’s largest AI conference, NeurIPS, got underway in sunny New Orleans, Google shared... [7635 chars]",
+            "url": "https://techcrunch.com/2023/12/16/googles-gemini-comes-to-more-apps-cruise-slashes-its-workforce-and-tesla-issues-a-recall/",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741",
+            "publishedAt": "2023-12-16T21:15:53Z",
+            "source": {
+            
+                "url": "https://techcrunch.com"
+            }
+        },
+        {   "id":"11",
+        "names": "Tech",
+            "title": "Google's Gemini comes to more apps, Cruise slashes its workforce and Tesla issues a recall",
+            "description": "In this edition of TC's Week in Review (WiR) newsletter, we cover Google's Gemini model expanding, Cruise laying off employees and more.",
+            "content": "Hey, folks, welcome to Week in Review (WiR), TechCrunch’s regular newsletter covering the major happenings in the tech-o-sphere — or most of them, anyway. As the world’s largest AI conference, NeurIPS, got underway in sunny New Orleans, Google shared... [7635 chars]",
+            "url": "https://techcrunch.com/2023/12/16/googles-gemini-comes-to-more-apps-cruise-slashes-its-workforce-and-tesla-issues-a-recall/",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741",
+            "publishedAt": "2023-12-16T21:15:53Z",
+            "source": {
+               
+                "url": "https://techcrunch.com"
+            }
+        },
+        {    "id":"12",
+        "name": "TechRadar",
+            "title": "Mint Mobile just dropped its best Google Pixel 8 deal yet - get $200 off plus a free Pixel Watch 2",
+            "description": "Mint Mobile's throwing in some serious freebies for its latest Google Pixel 8 deals today alongside a massive $200 discount.",
+            "content": "The prepaid carrier Mint Mobile has just dropped its best deals yet on the latest Google Pixel 8 phones - including not just a full $200 price cut but also some serious freebies.\nNew customers who pick up a device alongside a six-month plan at the ca... [2170 chars]",
+            "url": "https://www.techradar.com/phones/google-pixel-phones/mint-mobile-just-dropped-its-best-google-pixel-8-deal-yet-get-dollar200-off-plus-a-free-pixel-watch-2",
+            "image": "https://cdn.mos.cms.futurecdn.net/X5vb6tfsvsky6B7GJiyBhi-1200-80.jpg",
+            "publishedAt": "2023-12-16T19:25:14Z",
+            "source": {
+                
+                "url": "https://www.techradar.com"
+            }
+        }
+    
+
+]
